@@ -72,5 +72,10 @@ elif user_Choice == "6":
     print("Calculating your percentage.....")
     print(num1, "percent of", num2, "is equal to",percent(num1, num2),"%")
 
+else:
+    print("Invalid input")
+
+
+print("Thank you for using my simple calculator program " + user_Name)
 
 
